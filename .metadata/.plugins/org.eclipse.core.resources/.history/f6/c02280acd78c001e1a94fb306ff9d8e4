@@ -1,0 +1,8 @@
+package Practice;
+import java.util.*;
+
+public class HashDemo {
+	
+HashSet hs	= new HashSet<>();
+hs.add(true);
+}

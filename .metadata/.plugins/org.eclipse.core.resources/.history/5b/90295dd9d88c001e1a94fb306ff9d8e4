@@ -1,0 +1,21 @@
+package Practice;
+import java.util.*;
+
+public class HashDemo {
+	public static void main(String[] args) {
+		HashSet hs	= new HashSet<>();
+		hs.add(true);
+		hs.add("Hello");
+		hs.add(1232);
+		System.out.println(hs);
+		
+		
+		
+		
+		HashSet<Employee> Emp = new HashSet<Emplpo>();
+		
+		Emp.add("Darshan",20,50);
+		
+	}
+
+}

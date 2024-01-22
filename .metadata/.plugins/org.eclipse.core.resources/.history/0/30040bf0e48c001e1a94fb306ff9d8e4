@@ -1,0 +1,15 @@
+package Practice;
+
+public class Comparable_demo {
+ private String name;
+ private int age;
+
+ 
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

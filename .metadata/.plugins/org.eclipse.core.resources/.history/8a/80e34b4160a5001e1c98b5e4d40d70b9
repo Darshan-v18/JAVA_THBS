@@ -1,0 +1,13 @@
+package com.example.SpringBoot;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HomeController {
+	
+ public String getHome() {
+	 return "welcome to home page";
+ }
+
+	
+}

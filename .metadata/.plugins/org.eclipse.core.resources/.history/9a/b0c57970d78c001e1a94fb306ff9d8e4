@@ -1,0 +1,15 @@
+package Practice;
+import java.util.*;
+
+public class HashDemo {
+	HashMap<Integer,String> map=new HashMap<Integer,String>();//create HashMap
+	 map.put()
+	map.put(1,"avengers");
+	map.put(2,"lion king");
+	map.put(3,"batman");
+	map.put(4,"Doctor strange");
+	for(Map.Entry m:map.entrySet())
+	{
+	System.out.println(m.getKey()+" "+m.getValue());
+	}
+}
